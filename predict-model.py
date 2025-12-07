@@ -22,8 +22,6 @@ import matplotlib.pyplot as plt
 from torchsummary import summary
 from torchviz import make_dot
 from torch.cuda.amp import GradScaler, autocast
-     
-
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
